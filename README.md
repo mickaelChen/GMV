@@ -10,5 +10,8 @@ Each file is a stand-alone for the training of one model.
 ```
 python gmv.lua
 ```
+gmv and cgmv are proposed model.
+gan2 is a simple baseline described in the paper.
+mathieu is a pytorch reimplementation of [Disentangling factors of variation in deep representations using adversarial training](https://github.com/MichaelMathieu/factors-variation) using [DCGAN](https://arxiv.org/abs/1511.06434) inspired architecture.
 
 Hyperparameters are set within the code and can be modified.
