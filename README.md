@@ -1,5 +1,6 @@
 # Multi-View Data Generation Without View Supervision
-An implementation of the models presented in the Multi-View Data Generation Without View Supervision by Mickael Chen, Ludovic Denoyer and Thierry Artières, ICLR 2018
+An implementation of the models presented in the  [Multi-View Data Generation Without View Supervision](https://openreview.net/forum?id=ryRh0bb0Z) by Mickael Chen, Ludovic Denoyer and Thierry Artières, ICLR 2018
+
 
 ## Usage
 
