@@ -8,7 +8,7 @@ The code runs using PyTorch and numpy.
 
 Each file is a stand-alone for the training of one model.
 ```
-python gmv.lua
+python gmv.py
 ```
 gmv and cgmv are proposed model.
 gan2 is a simple baseline described in the paper.
