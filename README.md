@@ -1,8 +1,9 @@
 # Multi-View Data Generation Without View Supervision
 An implementation of the models presented in the  [Multi-View Data Generation Without View Supervision](https://openreview.net/forum?id=ryRh0bb0Z) by Mickael Chen, Ludovic Denoyer and Thierry Artières, ICLR 2018
 
-
 ![gmv](https://github.com/mickaelChen/GMV/blob/master/GMV.png)
+
+We propose a generative models for multi-view data by decomposing the latent space between content and view.
 
 ## Usage
 
