@@ -2,6 +2,8 @@
 An implementation of the models presented in the  [Multi-View Data Generation Without View Supervision](https://openreview.net/forum?id=ryRh0bb0Z) by Mickael Chen, Ludovic Denoyer and Thierry Artières, ICLR 2018
 
 
+![gmv](https://github.com/mickaelChen/GMV/blob/master/GMV.png)
+
 ## Usage
 
 The code runs using PyTorch and numpy.
